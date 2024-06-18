@@ -1,8 +1,8 @@
 {
     "pack": {
-        "pack_format": 9,
+        "pack_format": 32,
         "description": [
-        {"text":"Tranquil Buttons only in dark","color":"#27ce40"},
+        {"text":"Tranquil only Buttons in dark","color":"#27ce40"},
         {"text":"\noriginally By: CraftyGamer_","color":"blue"}
        ]
     }
